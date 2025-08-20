@@ -3,7 +3,7 @@
 /node_modules
 /build
 
-package-log.json
+package-lock.json
 
 # Logs
 logs
